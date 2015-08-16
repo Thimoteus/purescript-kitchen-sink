@@ -48,6 +48,7 @@ module Kitchen
   , module Control.Monad.State
   , module Control.Monad.State.Class
   , module Control.Monad.State.Trans
+  , module Control.Monad.ST
   , module Control.Monad.Free
   , module Control.Monad.Trampoline
   , module Control.Monad.Rec.Class
